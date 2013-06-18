@@ -1,0 +1,7 @@
+Record <Primary><Alt>z
+StopRecord <Primary><Shift><Alt>z
+Playback <Primary><Alt>x
+StopPlayback <Primary><Shift><Alt>x
+SwitchToSoundCard <Primary><Alt>a
+SwitchToMic <Primary><Shift><Alt>a
+

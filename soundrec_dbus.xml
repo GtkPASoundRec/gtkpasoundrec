@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<node name='/org/SoundRecorder'>
+	<interface name='org.SoundRecorder'>
+		<method name='Record'/>
+		<method name='StopRecord'/>
+		<method name='Playback'/>
+		<method name='StopPlayback'/>
+		<method name='SwitchToSoundCard'/>
+		<method name='SwitchToMic'/>
+	</interface>
+</node>

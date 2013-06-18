@@ -1,0 +1,29 @@
+
+/*@define-color selected_bg_color alpha(black,0.05);*/
+
+#main-window GtkRadioButton * {
+	font: Sans 9;
+}
+
+#main-window GtkTreeView {
+	font: Sans 9;
+}
+
+/*
+#main-window {
+	background-image: url('bg13.png');
+	background-repeat: repeat-x;
+	background-position: bottom left; 
+}*/
+
+/*
+#main-window GtkTreeView row:selected {
+	background-color: #bcd6e4;
+	background-image: none;
+	border-top: none;
+	color: @fg_color;
+}*/
+
+#save-dialog GtkEntry {
+	font: Sans 9;
+}
